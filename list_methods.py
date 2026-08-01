@@ -44,3 +44,8 @@ print(new_list)
 #clear(remove all elements from list)
 fruits.clear()
 print(fruits)
+
+#flatten_list
+numbers1=[[1,2,3],[4,5]]
+flat_list=[item for sublist in numbers1 for item in sublist]
+print(flat_list)
