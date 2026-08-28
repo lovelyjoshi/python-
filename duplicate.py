@@ -1,3 +1,4 @@
+//add items in list
 list1=[10,10,20,30,30,45,56,78,78]
 list2=[]
 for i in list1:
