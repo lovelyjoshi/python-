@@ -1,3 +1,4 @@
+// count vowels 
 s="Hello World"
 vowels="aeiouAEIOU"
 v=0 #vowels count
